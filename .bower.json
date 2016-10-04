@@ -31,5 +31,16 @@
   },
   "resolutions": {
     "jquery": "~1.11.1"
-  }
+  },
+  "homepage": "https://github.com/designmodo/Flat-UI",
+  "version": "2.3.0",
+  "_release": "2.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.3.0",
+    "commit": "8e35fb5360f38fbabf581617052b69a261c01466"
+  },
+  "_source": "https://github.com/designmodo/Flat-UI.git",
+  "_target": "^2.3.0",
+  "_originalSource": "flat-ui"
 }
